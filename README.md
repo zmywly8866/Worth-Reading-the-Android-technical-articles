@@ -1,8 +1,3 @@
-Worth-Reading-the-Android-technical-articles
-============================================
-
-值得阅读的android技术文章
-
 <p>
 	<strong><span style="font-size:18px;">一、工具篇：</span></strong>
 </p>
@@ -117,46 +112,86 @@ Worth-Reading-the-Android-technical-articles
 	</span>
 </p>
 <p>
-	<span style="font-size:18px;"><a href="http://www.cnblogs.com/plokmju/p/android_Handler.html">Android--多线程之Handler</a><br />
+	<span style="font-size:18px;"><a target="_blank" href="http://www.cnblogs.com/plokmju/p/android_Handler.html">Android--多线程之Handler</a><br />
 	</span>
 </p>
 <p>
-	<span style="font-size:18px;"><a href="http://blog.csdn.net/hmg25/article/details/8100896">浅析android应用增量升级</a><br />
+	<span style="font-size:18px;"><a target="_blank" href="http://blog.csdn.net/hmg25/article/details/8100896">浅析android应用增量升级</a><br />
 	</span>
 </p>
 <p>
-	<span style="font-size:18px;"><a href="http://www.trinea.cn/android/android-listview-display-error-image-when-scroll/">Android ListView滑动过程中图片显示重复错位闪烁问题解决</a><br />
+	<span style="font-size:18px;"><a target="_blank" href="http://www.trinea.cn/android/android-listview-display-error-image-when-scroll/">Android ListView滑动过程中图片显示重复错位闪烁问题解决</a><br />
 	</span>
 </p>
 <p>
-	<span style="font-size:18px;"><a href="http://blog.csdn.net/innost/article/details/9008691">Android系统性能调优工具介绍</a><br />
+	<span style="font-size:18px;"><a target="_blank" href="http://blog.csdn.net/innost/article/details/9008691">Android系统性能调优工具介绍</a><br />
 	</span>
 </p>
 <p>
-	<span style="font-size:18px;"><a href="http://blog.csdn.net/innost/article/details/8474683">Android Wi-Fi Display（Miracast）介绍</a><br />
+	<span style="font-size:18px;"><a target="_blank" href="http://blog.csdn.net/innost/article/details/8474683">Android Wi-Fi Display（Miracast）介绍</a><br />
 	</span>
 </p>
 <p>
-	<span style="font-size:18px;"><a href="http://blog.csdn.net/innost/article/details/6055793">Android Looper和Handler分析</a><br />
+	<span style="font-size:18px;"><a target="_blank" href="http://blog.csdn.net/innost/article/details/6055793">Android Looper和Handler分析</a><br />
 	</span>
 </p>
 <p>
-	<span style="font-size:18px;"><a href="http://blog.csdn.net/innost/article/details/6083467">Android MediaScanner 详尽分析</a><br />
+	<span style="font-size:18px;"><a target="_blank" href="http://blog.csdn.net/innost/article/details/6083467">Android MediaScanner 详尽分析</a><br />
 	</span>
 </p>
 <p>
-	<span style="font-size:18px;"><a href="http://blog.csdn.net/innost/article/details/6124685">Android深入浅出之Binder机制</a><br />
+	<span style="font-size:18px;"><a target="_blank" href="http://blog.csdn.net/innost/article/details/6124685">Android深入浅出之Binder机制</a><br />
 	</span>
 </p>
 <p>
-	<span style="font-size:18px;"><a href="http://blog.csdn.net/android_tutor/article/details/5508615">Android 中自定义属性(attr.xml,TypedArray)的使用!</a><br />
+	<span style="font-size:18px;"><a target="_blank" href="http://blog.csdn.net/android_tutor/article/details/5508615">Android 中自定义属性(attr.xml,TypedArray)的使用!</a><br />
 	</span>
 </p>
 <p>
-	<span style="font-size:18px;"><a href="http://jovian.iteye.com/blog/1684160">平滑的签名效果实现（上）</a><br />
+	<span style="font-size:18px;"><a target="_blank" href="http://jovian.iteye.com/blog/1684160">平滑的签名效果实现（上）</a><br />
 	</span>
 </p>
 <p>
-	<a href="http://jovian.iteye.com/blog/1684159"><span style="font-size:18px;">平滑的签名效果实现（下）</span></a><br />
+	<span style="font-size:18px;"><a target="_blank" href="http://jovian.iteye.com/blog/1684159">平滑的签名效果实现（下）</a><br />
+	</span>
+</p>
+<p>
+	<span style="font-size:18px;"><a href="http://stormzhang.github.io/android/2014/05/16/android-screen-adaptation/">Android 屏幕适配</a><br />
+	</span>
+</p>
+<p>
+	<span style="font-size:18px;"><a href="http://blog.csdn.net/chenshijun0101/article/details/7045394">android WebView总结</a><br />
+	</span>
+</p>
+<p>
+	<span style="font-size:18px;"><a href="http://blog.csdn.net/shiqx429/article/details/3865581">构建自定义组件</a><br />
+	</span>
+</p>
+<p>
+	<span style="font-size:18px;"><a href="http://www.importnew.com/8038.html">Android NDK介绍（上） </a><br />
+	</span>
+</p>
+<p>
+	<span style="font-size:18px;"><a href="http://www.importnew.com/8052.html">Android NDK介绍（下） </a><br />
+	</span>
+</p>
+<p>
+	<span style="font-size:18px;"><a href="http://www.importnew.com/9019.html">Android Service教程 </a><br />
+	</span>
+</p>
+<p>
+	<span style="font-size:18px;"><a href="http://www.importnew.com/895.html">通过多线程技术提高Android应用性能 </a><br />
+	</span>
+</p>
+<p>
+	<span style="font-size:18px;"><a href="http://www.importnew.com/1324.html">SQLite在Android中的使用 </a><br />
+	</span>
+</p>
+<p>
+	<span style="font-size:18px;"><a href="http://www.importnew.com/3784.html">Android性能优化案例研究(上) </a><br />
+	</span>
+</p>
+<p>
+	<a href="http://www.importnew.com/4065.html"><span style="font-size:18px;">Android性能优化案例研究（下）</span></a><br />
 	
 </p>

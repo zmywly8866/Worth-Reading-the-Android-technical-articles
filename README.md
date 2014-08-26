@@ -192,6 +192,14 @@
 	</span>
 </p>
 <p>
-	<a href="http://www.importnew.com/4065.html"><span style="font-size:18px;">Android性能优化案例研究（下）</span></a><br />
+	<span style="font-size:18px;"><a href="http://www.importnew.com/4065.html">Android性能优化案例研究（下）</a><br />
+	</span>
+</p>
+<p>
+	<span style="font-size:18px;"><a href="http://blog.csdn.net/stonecao/article/details/6425019">Android AIDL使用详解</a><br />
+	</span>
+</p>
+<p>
+	<br />
 	
 </p>

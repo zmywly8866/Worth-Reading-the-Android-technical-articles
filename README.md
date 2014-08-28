@@ -156,50 +156,54 @@
 	</span>
 </p>
 <p>
-	<span style="font-size:18px;"><a href="http://stormzhang.github.io/android/2014/05/16/android-screen-adaptation/">Android 屏幕适配</a><br />
+	<span style="font-size:18px;"><a target="_blank" href="http://stormzhang.github.io/android/2014/05/16/android-screen-adaptation/">Android 屏幕适配</a><br />
 	</span>
 </p>
 <p>
-	<span style="font-size:18px;"><a href="http://blog.csdn.net/chenshijun0101/article/details/7045394">android WebView总结</a><br />
+	<span style="font-size:18px;"><a target="_blank" href="http://blog.csdn.net/chenshijun0101/article/details/7045394">android WebView总结</a><br />
 	</span>
 </p>
 <p>
-	<span style="font-size:18px;"><a href="http://blog.csdn.net/shiqx429/article/details/3865581">构建自定义组件</a><br />
+	<span style="font-size:18px;"><a target="_blank" href="http://blog.csdn.net/shiqx429/article/details/3865581">构建自定义组件</a><br />
 	</span>
 </p>
 <p>
-	<span style="font-size:18px;"><a href="http://www.importnew.com/8038.html">Android NDK介绍（上） </a><br />
+	<span style="font-size:18px;"><a target="_blank" href="http://www.importnew.com/8038.html">Android NDK介绍（上）</a><br />
 	</span>
 </p>
 <p>
-	<span style="font-size:18px;"><a href="http://www.importnew.com/8052.html">Android NDK介绍（下） </a><br />
+	<span style="font-size:18px;"><a target="_blank" href="http://www.importnew.com/8052.html">Android NDK介绍（下）</a><br />
 	</span>
 </p>
 <p>
-	<span style="font-size:18px;"><a href="http://www.importnew.com/9019.html">Android Service教程 </a><br />
+	<span style="font-size:18px;"><a target="_blank" href="http://www.importnew.com/9019.html">Android Service教程</a><br />
 	</span>
 </p>
 <p>
-	<span style="font-size:18px;"><a href="http://www.importnew.com/895.html">通过多线程技术提高Android应用性能 </a><br />
+	<span style="font-size:18px;"><a target="_blank" href="http://www.importnew.com/895.html">通过多线程技术提高Android应用性能</a><br />
 	</span>
 </p>
 <p>
-	<span style="font-size:18px;"><a href="http://www.importnew.com/1324.html">SQLite在Android中的使用 </a><br />
+	<span style="font-size:18px;"><a target="_blank" href="http://www.importnew.com/1324.html">SQLite在Android中的使用</a><br />
 	</span>
 </p>
 <p>
-	<span style="font-size:18px;"><a href="http://www.importnew.com/3784.html">Android性能优化案例研究(上) </a><br />
+	<span style="font-size:18px;"><a target="_blank" href="http://www.importnew.com/3784.html">Android性能优化案例研究(上)</a><br />
 	</span>
 </p>
 <p>
-	<span style="font-size:18px;"><a href="http://www.importnew.com/4065.html">Android性能优化案例研究（下）</a><br />
+	<span style="font-size:18px;"><a target="_blank" href="http://www.importnew.com/4065.html">Android性能优化案例研究（下）</a><br />
 	</span>
 </p>
 <p>
-	<span style="font-size:18px;"><a href="http://blog.csdn.net/stonecao/article/details/6425019">Android AIDL使用详解</a><br />
+	<span style="font-size:18px;"><a target="_blank" href="http://blog.csdn.net/stonecao/article/details/6425019">Android AIDL使用详解</a><br />
 	</span>
 </p>
 <p>
-	<br />
+	<span style="font-size:18px;"><a href="http://blog.csdn.net/singwhatiwanna/article/details/22597587">Android apk动态加载机制的研究</a><br />
+	</span>
+</p>
+<p>
+	<a href="http://blog.csdn.net/singwhatiwanna/article/details/17841165"><span style="font-size:18px;">Android属性动画深入分析：让你成为动画牛人</span></a><br />
 	
 </p>

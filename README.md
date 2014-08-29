@@ -207,3 +207,7 @@
 	<a href="http://blog.csdn.net/singwhatiwanna/article/details/17841165"><span style="font-size:18px;">Android属性动画深入分析：让你成为动画牛人</span></a><br />
 	
 </p>
+<p>
+	<a href="http://stormzhang.github.io/android/2013/07/30/android-custome-attribute-format/"><span style="font-size:18px;">Android中自定义属性格式详解</span></a><br />
+	
+</p>

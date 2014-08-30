@@ -211,3 +211,7 @@
 	<a href="http://stormzhang.github.io/android/2013/07/30/android-custome-attribute-format/"><span style="font-size:18px;">Android中自定义属性格式详解</span></a><br />
 	
 </p>
+<p>
+	<a href="http://stormzhang.github.io/androidtips/2014/08/24/android-viewfinder/"><span style="font-size:18px;">Android ViewFinder</span></a><br />
+	
+</p>

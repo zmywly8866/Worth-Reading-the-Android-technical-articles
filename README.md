@@ -215,3 +215,7 @@
 	<a href="http://stormzhang.github.io/androidtips/2014/08/24/android-viewfinder/"><span style="font-size:18px;">Android ViewFinder</span></a><br />
 	
 </p>
+<p>
+	<a href="http://stormzhang.github.io/android/2014/08/08/activity-fragment-lifecycle/"><span style="font-size:18px;">Android Activity/Fragment Lifecycle</span></a><br />
+	
+</p>

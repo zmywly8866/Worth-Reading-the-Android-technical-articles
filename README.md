@@ -219,3 +219,11 @@
 	<a href="http://stormzhang.github.io/android/2014/08/08/activity-fragment-lifecycle/"><span style="font-size:18px;">Android Activity/Fragment Lifecycle</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.cnblogs.com/slider/archive/2012/02/14/2351702.html"><span style="font-size:18px;">Android中内容观察者的使用---- ContentObserver类详解</span></a><br />
+	
+</p>
+<p>
+	<a href="http://smallwoniu.blog.51cto.com/3911954/1248643"><span style="font-size:18px;">Android应用程序完全退出</span></a><br />
+	
+</p>

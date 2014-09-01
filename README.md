@@ -227,3 +227,15 @@
 	<a href="http://smallwoniu.blog.51cto.com/3911954/1248643"><span style="font-size:18px;">Android应用程序完全退出</span></a><br />
 	
 </p>
+<p>
+	<a href="http://gundumw100.iteye.com/blog/1338645"><span style="font-size:18px;">WebView实现文件下载功能</span></a><br />
+	
+</p>
+<p>
+	<a href="http://blog.csdn.net/xieqibao/article/details/6682128"><span style="font-size:18px;">Android 之 远程图片获取和本地缓存</span></a><br />
+	
+</p>
+<p>
+	<a href="http://blog.csdn.net/xieqibao/article/details/6567814"><span style="font-size:18px;">Android 之 Window、WindowManager 与窗口管理</span></a><br />
+	
+</p>

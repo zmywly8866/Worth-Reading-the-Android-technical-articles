@@ -243,3 +243,7 @@
 	<a href="http://blog.csdn.net/ichliebephone/article/details/5916320"><span style="font-size:18px;">Android的设置界面及Preference使用</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.csdn.net/ekeuy/article/details/10971609"><span style="font-size:18px;">Android中获取View缩略图</span></a><br />
+	
+</p>

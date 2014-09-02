@@ -239,3 +239,7 @@
 	<a href="http://blog.csdn.net/xieqibao/article/details/6567814"><span style="font-size:18px;">Android 之 Window、WindowManager 与窗口管理</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.csdn.net/ichliebephone/article/details/5916320"><span style="font-size:18px;">Android的设置界面及Preference使用</span></a><br />
+	
+</p>

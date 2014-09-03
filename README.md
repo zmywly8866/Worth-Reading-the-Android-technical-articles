@@ -259,3 +259,11 @@
 	<a href="http://www.cnblogs.com/youxilua/archive/2013/05/20/3087935.html"><span style="font-size:18px;">用Gradle 构建你的android程序</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.csdn.net/xyz_lmn/article/details/16826669"><span style="font-size:18px;">Android 触摸及手势操作GestureDetector</span></a><br />
+	
+</p>
+<p>
+	<a href="http://www.tutorialspoint.com/android/android_gestures.htm"><span style="font-size:18px;">Android Gestures Tutorial</span></a><br />
+	
+</p>

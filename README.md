@@ -247,3 +247,11 @@
 	<a href="http://blog.csdn.net/ekeuy/article/details/10971609"><span style="font-size:18px;">Android中获取View缩略图</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.cnblogs.com/xiaoxuetu/p/3411214.html"><span style="font-size:18px;">adb常用命令</span></a><br />
+	
+</p>
+<p>
+	<a href="http://blog.csdn.net/liuhe688/article/details/6679879"><span style="font-size:18px;">使用ANT打包Android应用</span></a><br />
+	
+</p>

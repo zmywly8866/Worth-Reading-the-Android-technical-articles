@@ -255,3 +255,7 @@
 	<a href="http://blog.csdn.net/liuhe688/article/details/6679879"><span style="font-size:18px;">使用ANT打包Android应用</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.cnblogs.com/youxilua/archive/2013/05/20/3087935.html"><span style="font-size:18px;">用Gradle 构建你的android程序</span></a><br />
+	
+</p>

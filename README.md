@@ -279,3 +279,11 @@
 	<a href="http://blog.csdn.net/android_tutor/article/details/6427680"><span style="font-size:18px;">Android 中的AIDL!!!</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.csdn.net/way_ping_li/article/details/7927273"><span style="font-size:18px;">Android将程序崩溃信息保存本地文件</span></a><br />
+	
+</p>
+<p>
+	<a href="http://blog.csdn.net/liuhe688/article/details/6584143"><span style="font-size:18px;">Android中处理崩溃异常</span></a><br />
+	
+</p>

@@ -271,3 +271,11 @@
 	<a href="http://www.trinea.cn/android/performance/"><span style="font-size:18px;">性能优化系列总篇</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.csdn.net/stonecao/article/details/6425019"><span style="font-size:18px;">Android AIDL使用详解</span></a><br />
+	
+</p>
+<p>
+	<a href="http://blog.csdn.net/android_tutor/article/details/6427680"><span style="font-size:18px;">Android 中的AIDL!!!</span></a><br />
+	
+</p>

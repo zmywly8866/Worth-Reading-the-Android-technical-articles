@@ -267,3 +267,7 @@
 	<a href="http://www.tutorialspoint.com/android/android_gestures.htm"><span style="font-size:18px;">Android Gestures Tutorial</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.trinea.cn/android/performance/"><span style="font-size:18px;">性能优化系列总篇</span></a><br />
+	
+</p>

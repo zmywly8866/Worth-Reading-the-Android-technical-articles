@@ -287,3 +287,11 @@
 	<a href="http://blog.csdn.net/liuhe688/article/details/6584143"><span style="font-size:18px;">Android中处理崩溃异常</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.csdn.net/guolin_blog/article/details/8830286"><span style="font-size:18px;">Android官方提供的支持不同屏幕大小的全部方法</span></a><br />
+	
+</p>
+<p>
+	<a href="http://blog.csdn.net/shulianghan/article/details/19698511"><span style="font-size:18px;">Android屏幕适配解析</span></a><br />
+	
+</p>

@@ -295,3 +295,7 @@
 	<a href="http://blog.csdn.net/shulianghan/article/details/19698511"><span style="font-size:18px;">Android屏幕适配解析</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.trinea.cn/android/android-plugin/"><span style="font-size:18px;">Android 插件化</span></a><br />
+	
+</p>

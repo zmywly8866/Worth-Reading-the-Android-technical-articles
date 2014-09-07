@@ -323,3 +323,7 @@
 	<a href="http://www.importnew.com/895.html"><span style="font-size:18px;">通过多线程技术提高Android应用性能</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.cnblogs.com/hibraincol/archive/2011/05/30/2063847.html"><span style="font-size:18px;">Android: NDK编程入门笔记</span></a><br />
+	
+</p>

@@ -204,98 +204,110 @@
 	</span>
 </p>
 <p>
-	<a href="http://blog.csdn.net/singwhatiwanna/article/details/17841165"><span style="font-size:18px;">Android属性动画深入分析：让你成为动画牛人</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://blog.csdn.net/singwhatiwanna/article/details/17841165">Android属性动画深入分析：让你成为动画牛人</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://stormzhang.github.io/android/2013/07/30/android-custome-attribute-format/"><span style="font-size:18px;">Android中自定义属性格式详解</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://stormzhang.github.io/android/2013/07/30/android-custome-attribute-format/">Android中自定义属性格式详解</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://stormzhang.github.io/androidtips/2014/08/24/android-viewfinder/"><span style="font-size:18px;">Android ViewFinder</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://stormzhang.github.io/androidtips/2014/08/24/android-viewfinder/">Android ViewFinder</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://stormzhang.github.io/android/2014/08/08/activity-fragment-lifecycle/"><span style="font-size:18px;">Android Activity/Fragment Lifecycle</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://stormzhang.github.io/android/2014/08/08/activity-fragment-lifecycle/">Android Activity/Fragment Lifecycle</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://www.cnblogs.com/slider/archive/2012/02/14/2351702.html"><span style="font-size:18px;">Android中内容观察者的使用---- ContentObserver类详解</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://www.cnblogs.com/slider/archive/2012/02/14/2351702.html">Android中内容观察者的使用---- ContentObserver类详解</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://smallwoniu.blog.51cto.com/3911954/1248643"><span style="font-size:18px;">Android应用程序完全退出</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://smallwoniu.blog.51cto.com/3911954/1248643">Android应用程序完全退出</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://gundumw100.iteye.com/blog/1338645"><span style="font-size:18px;">WebView实现文件下载功能</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://gundumw100.iteye.com/blog/1338645">WebView实现文件下载功能</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://blog.csdn.net/xieqibao/article/details/6682128"><span style="font-size:18px;">Android 之 远程图片获取和本地缓存</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://blog.csdn.net/xieqibao/article/details/6682128">Android 之 远程图片获取和本地缓存</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://blog.csdn.net/xieqibao/article/details/6567814"><span style="font-size:18px;">Android 之 Window、WindowManager 与窗口管理</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://blog.csdn.net/xieqibao/article/details/6567814">Android 之 Window、WindowManager 与窗口管理</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://blog.csdn.net/ichliebephone/article/details/5916320"><span style="font-size:18px;">Android的设置界面及Preference使用</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://blog.csdn.net/ichliebephone/article/details/5916320">Android的设置界面及Preference使用</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://blog.csdn.net/ekeuy/article/details/10971609"><span style="font-size:18px;">Android中获取View缩略图</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://blog.csdn.net/ekeuy/article/details/10971609">Android中获取View缩略图</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://www.cnblogs.com/xiaoxuetu/p/3411214.html"><span style="font-size:18px;">adb常用命令</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://www.cnblogs.com/xiaoxuetu/p/3411214.html">adb常用命令</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://blog.csdn.net/liuhe688/article/details/6679879"><span style="font-size:18px;">使用ANT打包Android应用</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://blog.csdn.net/liuhe688/article/details/6679879">使用ANT打包Android应用</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://www.cnblogs.com/youxilua/archive/2013/05/20/3087935.html"><span style="font-size:18px;">用Gradle 构建你的android程序</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://www.cnblogs.com/youxilua/archive/2013/05/20/3087935.html">用Gradle 构建你的android程序</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://blog.csdn.net/xyz_lmn/article/details/16826669"><span style="font-size:18px;">Android 触摸及手势操作GestureDetector</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://blog.csdn.net/xyz_lmn/article/details/16826669">Android 触摸及手势操作GestureDetector</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://www.tutorialspoint.com/android/android_gestures.htm"><span style="font-size:18px;">Android Gestures Tutorial</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://www.tutorialspoint.com/android/android_gestures.htm">Android Gestures Tutorial</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://www.trinea.cn/android/performance/"><span style="font-size:18px;">性能优化系列总篇</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://www.trinea.cn/android/performance/">性能优化系列总篇</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://blog.csdn.net/stonecao/article/details/6425019"><span style="font-size:18px;">Android AIDL使用详解</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://blog.csdn.net/stonecao/article/details/6425019">Android AIDL使用详解</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://blog.csdn.net/android_tutor/article/details/6427680"><span style="font-size:18px;">Android 中的AIDL!!!</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://blog.csdn.net/android_tutor/article/details/6427680">Android 中的AIDL!!!</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://blog.csdn.net/way_ping_li/article/details/7927273"><span style="font-size:18px;">Android将程序崩溃信息保存本地文件</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://blog.csdn.net/way_ping_li/article/details/7927273">Android将程序崩溃信息保存本地文件</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://blog.csdn.net/liuhe688/article/details/6584143"><span style="font-size:18px;">Android中处理崩溃异常</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://blog.csdn.net/liuhe688/article/details/6584143">Android中处理崩溃异常</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://blog.csdn.net/guolin_blog/article/details/8830286"><span style="font-size:18px;">Android官方提供的支持不同屏幕大小的全部方法</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://blog.csdn.net/guolin_blog/article/details/8830286">Android官方提供的支持不同屏幕大小的全部方法</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://blog.csdn.net/shulianghan/article/details/19698511"><span style="font-size:18px;">Android屏幕适配解析</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://blog.csdn.net/shulianghan/article/details/19698511">Android屏幕适配解析</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://www.trinea.cn/android/android-plugin/"><span style="font-size:18px;">Android 插件化</span></a><br />
+	<span style="font-size:18px;"><a href="http://www.trinea.cn/android/android-plugin/">Android 插件化</a><br />
+	</span>
+</p>
+<p>
+	<span style="font-size:18px;"><a href="http://qiang106.iteye.com/blog/1830416">android NDK开发、编译、调试环境搭建与操作入门</a><br />
+	</span>
+</p>
+<p>
+	<span style="font-size:18px;"><a href="http://www.importnew.com/8038.html">Android NDK介绍（上） </a><br />
+	</span>
+</p>
+<p>
+	<a href="http://www.importnew.com/8052.html"><span style="font-size:18px;">Android NDK介绍（下） </span></a><br />
 	
 </p>

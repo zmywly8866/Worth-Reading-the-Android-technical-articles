@@ -308,6 +308,18 @@
 	</span>
 </p>
 <p>
-	<a href="http://www.importnew.com/8052.html"><span style="font-size:18px;">Android NDK介绍（下） </span></a><br />
+	<span style="font-size:18px;"><a href="http://www.importnew.com/8052.html">Android NDK介绍（下） </a><br />
+	</span>
+</p>
+<p>
+	<span style="font-size:18px;"><a href="http://www.importnew.com/3784.html">Android性能优化案例研究(上) </a><br />
+	</span>
+</p>
+<p>
+	<span style="font-size:18px;"><a href="http://www.importnew.com/4065.html">Android性能优化案例研究（下） </a><br />
+	</span>
+</p>
+<p>
+	<a href="http://www.importnew.com/895.html"><span style="font-size:18px;">通过多线程技术提高Android应用性能</span></a><br />
 	
 </p>

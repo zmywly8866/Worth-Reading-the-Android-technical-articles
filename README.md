@@ -327,3 +327,7 @@
 	<a href="http://www.cnblogs.com/hibraincol/archive/2011/05/30/2063847.html"><span style="font-size:18px;">Android: NDK编程入门笔记</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.cnblogs.com/vanezkw/archive/2012/07/19/2599092.html"><span style="font-size:18px;">.9 图片讲解</span></a><br />
+	
+</p>

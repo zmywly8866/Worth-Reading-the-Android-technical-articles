@@ -320,18 +320,26 @@
 	</span>
 </p>
 <p>
-	<a href="http://www.importnew.com/895.html"><span style="font-size:18px;">通过多线程技术提高Android应用性能</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://www.importnew.com/895.html">通过多线程技术提高Android应用性能</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://www.cnblogs.com/hibraincol/archive/2011/05/30/2063847.html"><span style="font-size:18px;">Android: NDK编程入门笔记</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://www.cnblogs.com/hibraincol/archive/2011/05/30/2063847.html">Android: NDK编程入门笔记</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://www.cnblogs.com/vanezkw/archive/2012/07/19/2599092.html"><span style="font-size:18px;">.9 图片讲解</span></a><br />
-	
+	<span style="font-size:18px;"><a href="http://www.cnblogs.com/vanezkw/archive/2012/07/19/2599092.html">.9 图片讲解</a><br />
+	</span>
 </p>
 <p>
-	<a href="http://blog.csdn.net/nokiaguy/article/details/5509638"><span style="font-size:18px;">Android中的长度单位详解（dp、sp、px、in、pt、mm）</span></a><br />
+	<span style="font-size:18px;"><a href="http://blog.csdn.net/nokiaguy/article/details/5509638">Android中的长度单位详解（dp、sp、px、in、pt、mm）</a><br />
+	</span>
+</p>
+<p>
+	<span style="font-size:18px;"><a href="http://www.cnblogs.com/hanyonglu/archive/2012/03/28/2420515.html">Android开发之InstanceState详解</a><br />
+	</span>
+</p>
+<p>
+	<a href="http://www.cnblogs.com/hanyonglu/archive/2012/03/26/2417278.html"><span style="font-size:18px;">Android开发之Intent.Action</span></a><br />
 	
 </p>

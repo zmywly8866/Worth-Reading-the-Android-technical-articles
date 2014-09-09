@@ -331,3 +331,7 @@
 	<a href="http://www.cnblogs.com/vanezkw/archive/2012/07/19/2599092.html"><span style="font-size:18px;">.9 图片讲解</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.csdn.net/nokiaguy/article/details/5509638"><span style="font-size:18px;">Android中的长度单位详解（dp、sp、px、in、pt、mm）</span></a><br />
+	
+</p>

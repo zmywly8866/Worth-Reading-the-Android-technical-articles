@@ -351,3 +351,7 @@
 	<a href="http://blog.csdn.net/ithomer/article/details/6727581"><span style="font-size:18px;">Android APK反编译详解（附图）</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.csdn.net/ithomer/article/details/6727640"><span style="font-size:18px;">Android如何防止apk程序被反编译</span></a><br />
+	
+</p>

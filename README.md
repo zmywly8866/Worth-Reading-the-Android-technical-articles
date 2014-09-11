@@ -355,3 +355,7 @@
 	<a href="http://blog.csdn.net/ithomer/article/details/6727640"><span style="font-size:18px;">Android如何防止apk程序被反编译</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.csdn.net/xn4545945/article/details/9001097"><span style="font-size:18px;">Android开发---摇一摇功能</span></a><br />
+	
+</p>

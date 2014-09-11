@@ -359,3 +359,7 @@
 	<a href="http://blog.csdn.net/xn4545945/article/details/9001097"><span style="font-size:18px;">Android开发---摇一摇功能</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.csdn.net/singwhatiwanna/article/details/9054001"><span style="font-size:18px;">android中图片的三级cache策略（内存、文件、网络）</span></a><br />
+	
+</p>

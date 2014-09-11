@@ -363,3 +363,7 @@
 	<a href="http://blog.csdn.net/singwhatiwanna/article/details/9054001"><span style="font-size:18px;">android中图片的三级cache策略（内存、文件、网络）</span></a><br />
 	
 </p>
+<p>
+	<a href="http://sunbofu.blog.51cto.com/6431507/1280441"><span style="font-size:18px;">整理一下Android中的ListView</span></a><br />
+	
+</p>

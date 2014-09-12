@@ -367,3 +367,7 @@
 	<a href="http://sunbofu.blog.51cto.com/6431507/1280441"><span style="font-size:18px;">整理一下Android中的ListView</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.cnblogs.com/newcj/archive/2011/05/30/2061370.html"><span style="font-size:18px;">Android 中的 Service 全面总结</span></a><br />
+	
+</p>

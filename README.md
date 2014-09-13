@@ -371,3 +371,12 @@
 	<a href="http://www.cnblogs.com/newcj/archive/2011/05/30/2061370.html"><span style="font-size:18px;">Android 中的 Service 全面总结</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.csdn.net/ekeuy/article/details/39252199"><span style="font-size:18px;">Android：通过SpannableString为TextView设置丰富的显示效果</span></a><br />
+	
+</p>
+<p>
+	<a href="http://lanyan-lan.iteye.com/blog/1561500"><span style="font-size:18px;">android strings.xml转义字符</span></a><br />
+	
+</p>
+

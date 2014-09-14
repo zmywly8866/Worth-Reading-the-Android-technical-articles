@@ -379,4 +379,11 @@
 	<a href="http://lanyan-lan.iteye.com/blog/1561500"><span style="font-size:18px;">android strings.xml转义字符</span></a><br />
 	
 </p>
-
+<p>
+	<a href="http://blog.csdn.net/guolin_blog/article/details/34093441"><span style="font-size:18px;">Android照片墙完整版，完美结合LruCache和DiskLruCache</span></a><br />
+	
+</p>
+<p>
+	<a href="http://blog.csdn.net/guolin_blog/article/details/28863651"><span style="font-size:18px;">Android DiskLruCache完全解析，硬盘缓存的最佳方案</span></a><br />
+	
+</p>

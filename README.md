@@ -399,3 +399,11 @@
 	<a href="http://lanhuidong.iteye.com/blog/1553532"><span style="font-size:18px;">java操作excel——jxl和poi比较</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.csdn.net/liuhe688/article/details/6532519"><span style="font-size:18px;">详解Android中AsyncTask的使用</span></a><br />
+	
+</p>
+<p>
+	<a href="http://blog.csdn.net/liuhe688/article/details/6415593"><span style="font-size:18px;">Android中解析XML</span></a><br />
+	
+</p>

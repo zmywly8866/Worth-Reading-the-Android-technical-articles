@@ -411,3 +411,7 @@
 	<a href="http://blog.csdn.net/liujian885/article/details/5404834"><span style="font-size:18px;">Android中如何修改系统时间（应用程序获得系统权限）</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.csdn.net/joshua_yu/article/details/6563587"><span style="font-size:18px;">Android推送通知指南</span></a><br />
+	
+</p>

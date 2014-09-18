@@ -415,3 +415,19 @@
 	<a href="http://blog.csdn.net/joshua_yu/article/details/6563587"><span style="font-size:18px;">Android推送通知指南</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.csdn.net/guolin_blog/article/details/38083103"><span style="font-size:18px;">Android数据库高手秘籍(零)——前言</span></a><br />
+	
+</p>
+<p>
+	<a href="http://blog.csdn.net/guolin_blog/article/details/38461239"><span style="font-size:18px;">Android数据库高手秘籍(一)——SQLite命令</span></a><br />
+	
+</p>
+<p>
+	<a href="http://blog.csdn.net/guolin_blog/article/details/38556989"><span style="font-size:18px;">Android数据库高手秘籍(二)——创建表和LitePal的基本用法</span></a><br />
+	
+</p>
+<p>
+	<a href="http://blog.csdn.net/guolin_blog/article/details/39151617"><span style="font-size:18px;">Android数据库高手秘籍(三)——使用LitePal升级表</span></a><br />
+	
+</p>

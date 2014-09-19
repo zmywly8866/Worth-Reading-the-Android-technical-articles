@@ -431,3 +431,7 @@
 	<a href="http://blog.csdn.net/guolin_blog/article/details/39151617"><span style="font-size:18px;">Android数据库高手秘籍(三)——使用LitePal升级表</span></a><br />
 	
 </p>
+<p>
+	<a href="http://bxbxbai.github.io/2014/09/14/android-working-with-volley/"><span style="font-size:18px;">Android库Volley的使用介绍</span></a><br />
+	
+</p>

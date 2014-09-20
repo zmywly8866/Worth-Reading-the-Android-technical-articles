@@ -439,3 +439,7 @@
 	<a href="http://blog.isming.me/2014/08/01/android-push/"><span style="font-size:18px;">android推送技术方案与原理</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.csdn.net/wangkuifeng0118/article/details/7368157"><span style="font-size:18px;">android弹出窗口的实现（PopupWindow）</span></a><br />
+	
+</p>

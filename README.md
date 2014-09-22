@@ -443,3 +443,7 @@
 	<a href="http://blog.csdn.net/wangkuifeng0118/article/details/7368157"><span style="font-size:18px;">android弹出窗口的实现（PopupWindow）</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.csdn.net/wangjinyu501/article/details/8169924"><span style="font-size:18px;">Android ViewPager使用详解</span></a><br />
+	
+</p>

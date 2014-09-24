@@ -451,3 +451,7 @@
 	<a href="http://stormzhang.github.io/android/2014/09/22/onsaveinstancestate-and-onrestoreinstancestate/"><span style="font-size:18px;">onSaveInstanceState & onRestoreInstanceState</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.trinea.cn/android/android-boot_completed-not-work/"><span style="font-size:18px;">Android应用如何开机自启动、自启动失败原因</span></a><br />
+	
+</p>

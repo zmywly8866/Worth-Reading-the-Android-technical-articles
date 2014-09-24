@@ -447,3 +447,7 @@
 	<a href="http://blog.csdn.net/wangjinyu501/article/details/8169924"><span style="font-size:18px;">Android ViewPager使用详解</span></a><br />
 	
 </p>
+<p>
+	<a href="http://stormzhang.github.io/android/2014/09/22/onsaveinstancestate-and-onrestoreinstancestate/"><span style="font-size:18px;">onSaveInstanceState & onRestoreInstanceState</span></a><br />
+	
+</p>

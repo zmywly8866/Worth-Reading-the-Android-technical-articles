@@ -455,3 +455,7 @@
 	<a href="http://www.trinea.cn/android/android-boot_completed-not-work/"><span style="font-size:18px;">Android应用如何开机自启动、自启动失败原因</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.cnblogs.com/sunzn/archive/2013/02/13/2910906.html"><span style="font-size:18px;">Android 编程下监视应用程序的启动</span></a><br />
+	
+</p>

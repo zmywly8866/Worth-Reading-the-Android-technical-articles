@@ -432,6 +432,10 @@
 	
 </p>
 <p>
+	<a href="http://blog.csdn.net/guolin_blog/article/details/39207945"><span style="font-size:18px;">Android数据库高手秘籍(四)——使用LitePal建立表关联</span></a><br />
+	
+</p>
+<p>
 	<a href="http://bxbxbai.github.io/2014/09/14/android-working-with-volley/"><span style="font-size:18px;">Android库Volley的使用介绍</span></a><br />
 	
 </p>

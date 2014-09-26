@@ -463,3 +463,7 @@
 	<a href="http://www.cnblogs.com/sunzn/archive/2013/02/13/2910906.html"><span style="font-size:18px;">Android 编程下监视应用程序的启动</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.cnblogs.com/plokmju/p/android_Matrix.html"><span style="font-size:18px;">Android--Matrix图片变换处理</span></a><br />
+	
+</p>

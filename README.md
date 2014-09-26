@@ -467,3 +467,7 @@
 	<a href="http://www.cnblogs.com/plokmju/p/android_Matrix.html"><span style="font-size:18px;">Android--Matrix图片变换处理</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.cnblogs.com/plokmju/p/android_SoundPool.html"><span style="font-size:18px;">Android--SoundPool</span></a><br />
+	
+</p>

@@ -479,3 +479,7 @@
 	<a href="http://blog.csdn.net/shulianghan/article/details/19913755"><span style="font-size:18px;">【Android 应用开发】Android资源文件 - 使用资源存储字符串 颜色 尺寸 整型 布尔值 数组</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.androidlearner.net/use-strictmode.html"><span style="font-size:18px;">android 使用StrictMode诊断程序性能</span></a><br />
+	
+</p>

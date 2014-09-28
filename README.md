@@ -483,3 +483,7 @@
 	<a href="http://www.androidlearner.net/use-strictmode.html"><span style="font-size:18px;">android 使用StrictMode诊断程序性能</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.robotium.cn"><span style="font-size:18px;">Android自动化测试框架Robotium</span></a><br />
+	
+</p>

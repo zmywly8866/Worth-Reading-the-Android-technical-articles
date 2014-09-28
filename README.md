@@ -471,3 +471,7 @@
 	<a href="http://www.cnblogs.com/plokmju/p/android_SoundPool.html"><span style="font-size:18px;">Android--SoundPool</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.cnblogs.com/sunzn/p/3854009.html"><span style="font-size:18px;">Android 编程下设置 Activity 切换动画</span></a><br />
+	
+</p>

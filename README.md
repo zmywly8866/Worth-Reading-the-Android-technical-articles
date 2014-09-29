@@ -487,3 +487,7 @@
 	<a href="http://www.robotium.cn"><span style="font-size:18px;">Android自动化测试框架Robotium</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.cnblogs.com/angeldevil/archive/2012/04/08/2437747.html"><span style="font-size:18px;">android中layout_weight的理解</span></a><br />
+	
+</p>

@@ -491,3 +491,7 @@
 	<a href="http://www.cnblogs.com/angeldevil/archive/2012/04/08/2437747.html"><span style="font-size:18px;">android中layout_weight的理解</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.csdn.net/hdhd588/article/details/6739281"><span style="font-size:18px;">APK安装过程及原理详解</span></a><br />
+	
+</p>

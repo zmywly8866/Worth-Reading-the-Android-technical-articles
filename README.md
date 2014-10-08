@@ -495,3 +495,7 @@
 	<a href="http://blog.csdn.net/hdhd588/article/details/6739281"><span style="font-size:18px;">APK安装过程及原理详解</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.csdn.net/yuanzeyao/article/details/38174537"><span style="font-size:18px;">Android解耦库EventBus的使用和源码分析</span></a><br />
+	
+</p>

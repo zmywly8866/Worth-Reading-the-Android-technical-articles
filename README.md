@@ -503,3 +503,7 @@
 	<a href="http://blog.csdn.net/wirelessqa/article/details/14222041"><span style="font-size:18px;">Android Studio入门指南 (历上最全，全球首发)</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.cnblogs.com/esrichina/p/3347036.html"><span style="font-size:18px;">Android中使用SQLiteOpenHelper管理SD卡中的数据库</span></a><br />
+	
+</p>

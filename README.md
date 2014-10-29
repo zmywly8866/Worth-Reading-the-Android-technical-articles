@@ -507,3 +507,7 @@
 	<a href="http://www.cnblogs.com/esrichina/p/3347036.html"><span style="font-size:18px;">Android中使用SQLiteOpenHelper管理SD卡中的数据库</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.csdn.net/ryantang03/article/details/7831826"><span style="font-size:18px;">二维码、条形码扫描——使用Google ZXing</span></a><br />
+	
+</p>

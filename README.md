@@ -515,3 +515,7 @@
 	<a href="http://blog.csdn.net/xxdddail/article/details/20522233"><span style="font-size:18px;">Android之查看Wifi密码</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.csdn.net/linmiansheng/article/details/18763987"><span style="font-size:18px;">（Android动画曲线）关于Property Animation的TimeInpolator和TypeEvaluator</span></a><br />
+	
+</p>

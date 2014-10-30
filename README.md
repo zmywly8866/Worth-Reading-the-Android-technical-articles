@@ -519,3 +519,7 @@
 	<a href="http://blog.csdn.net/linmiansheng/article/details/18763987"><span style="font-size:18px;">（Android动画曲线）关于Property Animation的TimeInpolator和TypeEvaluator</span></a><br />
 	
 </p>
+<p>
+	<a href="http://ikinglai.blog.51cto.com/6220785/1225309"><span style="font-size:18px;">Android下使用SoundTouch实现变声并转为wav格式播放（山寨汤姆猫</span></a><br />
+	
+</p>

@@ -520,6 +520,10 @@
 	
 </p>
 <p>
-	<a href="http://ikinglai.blog.51cto.com/6220785/1225309"><span style="font-size:18px;">Android下使用SoundTouch实现变声并转为wav格式播放（山寨汤姆猫</span></a><br />
+	<a href="http://ikinglai.blog.51cto.com/6220785/1225309"><span style="font-size:18px;">Android下使用SoundTouch实现变声并转为wav格式播放（山寨汤姆猫）</span></a><br />
+	
+</p>
+<p>
+	<a href="http://blog.csdn.net/duguang77/article/details/18230867"><span style="font-size:18px;">BaseAnimation是基于开源的APP,致力于收集各种动画效果(最新版本1.3)</span></a><br />
 	
 </p>

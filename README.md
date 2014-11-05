@@ -527,3 +527,7 @@
 	<a href="http://blog.csdn.net/duguang77/article/details/18230867"><span style="font-size:18px;">BaseAnimation是基于开源的APP,致力于收集各种动画效果(最新版本1.3)</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.cnblogs.com/sunzn/archive/2013/05/10/3064129.html"><span style="font-size:18px;">Android 编程下 Touch 事件的分发和消费机制</span></a><br />
+	
+</p>

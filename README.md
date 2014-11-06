@@ -531,3 +531,7 @@
 	<a href="http://www.cnblogs.com/sunzn/archive/2013/05/10/3064129.html"><span style="font-size:18px;">Android 编程下 Touch 事件的分发和消费机制</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.cnblogs.com/sunzn/archive/2013/02/12/2910350.html"><span style="font-size:18px;">Android 编程下快捷图标的创建</span></a><br />
+	
+</p>

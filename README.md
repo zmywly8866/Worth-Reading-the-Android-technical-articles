@@ -543,3 +543,7 @@
 	<a href="http://blog.csdn.net/wwj_748/article/details/10079311"><span style="font-size:18px;">Android开源框架ImageLoader的完美例子</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.csdn.net/minimicall/article/details/39484493"><span style="font-size:18px;">Android开发之多级下拉列表菜单实现（仿美团，淘宝等）</span></a><br />
+	
+</p>

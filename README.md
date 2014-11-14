@@ -547,3 +547,7 @@
 	<a href="http://blog.csdn.net/minimicall/article/details/39484493"><span style="font-size:18px;">Android开发之多级下拉列表菜单实现（仿美团，淘宝等）</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.csdn.net/yellowcath/article/details/27527275"><span style="font-size:18px;">Android 自绘TextView解决提前换行问题，支持图文混排</span></a><br />
+	
+</p>

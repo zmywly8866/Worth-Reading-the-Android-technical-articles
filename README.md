@@ -551,3 +551,7 @@
 	<a href="http://blog.csdn.net/yellowcath/article/details/27527275"><span style="font-size:18px;">Android 自绘TextView解决提前换行问题，支持图文混排</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.cnblogs.com/youxilua/archive/2011/11/12/2246576.html"><span style="font-size:18px;">android实用测试方法之Monkey与MonkeyRunner</span></a><br />
+	
+</p>

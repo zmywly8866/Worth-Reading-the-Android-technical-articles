@@ -555,3 +555,7 @@
 	<a href="http://www.cnblogs.com/youxilua/archive/2011/11/12/2246576.html"><span style="font-size:18px;">android实用测试方法之Monkey与MonkeyRunner</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.cnblogs.com/youxilua/archive/2011/09/16/2178554.html"><span style="font-size:18px;">JNI 学习笔记</span></a><br />
+	
+</p>

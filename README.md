@@ -579,3 +579,7 @@
 	<a href="http://blog.danlew.net/2014/05/28/android-tips-round-up-part-5/"><span style="font-size:18px;">Android Tips Round-Up, Part 5</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.williamlong.info/archives/2918.html"><span style="font-size:18px;">为什么Android没有iOS那么顺滑</span></a><br />
+	
+</p>

@@ -559,3 +559,23 @@
 	<a href="http://www.cnblogs.com/youxilua/archive/2011/09/16/2178554.html"><span style="font-size:18px;">JNI 学习笔记</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.danlew.net/2014/03/30/android-tips-round-up-part-1/"><span style="font-size:18px;">Android Tips Round-Up, Part 1</span></a><br />
+	
+</p>
+<p>
+	<a href="http://blog.danlew.net/2014/04/14/android-tips-round-up-part-2/"><span style="font-size:18px;">Android Tips Round-Up, Part 2</span></a><br />
+	
+</p>
+<p>
+	<a href="http://blog.danlew.net/2014/04/28/android-tips-round-up-part-3/"><span style="font-size:18px;">Android Tips Round-Up, Part 3</span></a><br />
+	
+</p>
+<p>
+	<a href="http://blog.danlew.net/2014/05/12/android-tips-round-up-part-4/"><span style="font-size:18px;">Android Tips Round-Up, Part 4</span></a><br />
+	
+</p>
+<p>
+	<a href="http://blog.danlew.net/2014/05/28/android-tips-round-up-part-5/"><span style="font-size:18px;">Android Tips Round-Up, Part 5</span></a><br />
+	
+</p>

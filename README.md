@@ -599,3 +599,7 @@
 	<a href="http://www.developerphil.com/dont-store-data-in-the-application-object/"><span style="font-size:18px;">Don't Store Data in the Application Object</span></a><br />
 	
 </p>
+<p>
+	<a href="http://cyrilmottier.com/2014/08/26/putting-your-apks-on-diet/"><span style="font-size:18px;">Putting Your APKs on Diet</span></a><br />
+	
+</p>

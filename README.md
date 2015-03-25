@@ -611,3 +611,7 @@
 	<a href="https://code.facebook.com/posts/485459238254631/improving-facebook-on-android/"><span style="font-size:18px;">Improving Facebook on Android</span></a><br />
 	
 </p>
+<p>
+	<a href="http://droidyue.com/blog/2015/01/18/deal-with-touch-icon-in-android/"><span style="font-size:18px;">Android中处理Touch Icon的方案</span></a><br />
+	
+</p>

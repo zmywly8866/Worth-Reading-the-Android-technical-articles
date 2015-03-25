@@ -583,3 +583,15 @@
 	<a href="http://www.williamlong.info/archives/2918.html"><span style="font-size:18px;">为什么Android没有iOS那么顺滑</span></a><br />
 	
 </p>
+<p>
+	<a href="https://medium.com/google-developer-experts/event-driven-programming-for-android-part-i-f5ea4a3c4eab"><span style="font-size:18px;">Event-driven programming for Android (part I)</span></a><br />
+	
+</p>
+<p>
+	<a href="https://medium.com/google-developer-experts/event-driven-programming-for-android-part-ii-b1e05698e440"><span style="font-size:18px;">Event-driven programming for Android (part II)</span></a><br />
+	
+</p>
+<p>
+	<a href="https://medium.com/google-developer-experts/event-driven-programming-for-android-part-iii-3a2e68c3faa4"><span style="font-size:18px;">Event-driven programming for Android (part III)</span></a><br />
+	
+</p>

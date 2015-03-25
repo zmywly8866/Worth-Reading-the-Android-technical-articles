@@ -603,3 +603,7 @@
 	<a href="http://cyrilmottier.com/2014/08/26/putting-your-apks-on-diet/"><span style="font-size:18px;">Putting Your APKs on Diet</span></a><br />
 	
 </p>
+<p>
+	<a href="http://droidyue.com/blog/2014/12/07/differences-between-stack-and-heap-in-java/"><span style="font-size:18px;">Java中的堆和栈的区别</span></a><br />
+	
+</p>

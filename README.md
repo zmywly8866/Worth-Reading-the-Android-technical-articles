@@ -595,3 +595,7 @@
 	<a href="https://medium.com/google-developer-experts/event-driven-programming-for-android-part-iii-3a2e68c3faa4"><span style="font-size:18px;">Event-driven programming for Android (part III)</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.developerphil.com/dont-store-data-in-the-application-object/"><span style="font-size:18px;">Don't Store Data in the Application Object</span></a><br />
+	
+</p>

@@ -148,14 +148,6 @@
 	</span>
 </p>
 <p>
-	<span style="font-size:18px;"><a target="_blank" href="http://jovian.iteye.com/blog/1684160">平滑的签名效果实现（上）</a><br />
-	</span>
-</p>
-<p>
-	<span style="font-size:18px;"><a target="_blank" href="http://jovian.iteye.com/blog/1684159">平滑的签名效果实现（下）</a><br />
-	</span>
-</p>
-<p>
 	<span style="font-size:18px;"><a target="_blank" href="http://stormzhang.github.io/android/2014/05/16/android-screen-adaptation/">Android 屏幕适配</a><br />
 	</span>
 </p>

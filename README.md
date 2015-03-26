@@ -436,6 +436,22 @@
 	
 </p>
 <p>
+	<a href="http://blog.csdn.net/guolin_blog/article/details/39345833"><span style="font-size:18px;">Android数据库高手秘籍(五)——LitePal的存储操作</span></a><br />
+	
+</p>
+<p>
+	<a href="http://blog.csdn.net/guolin_blog/article/details/40083685"><span style="font-size:18px;">Android数据库高手秘籍(六)——LitePal的修改和删除操作</span></a><br />
+	
+</p>
+<p>
+	<a href="http://blog.csdn.net/guolin_blog/article/details/40153833"><span style="font-size:18px;">Android数据库高手秘籍(七)——体验LitePal的查询艺术</span></a><br />
+	
+</p>
+<p>
+	<a href="http://blog.csdn.net/guolin_blog/article/details/40614197"><span style="font-size:18px;">Android数据库高手秘籍(八)——使用LitePal的聚合函数</span></a><br />
+	
+</p>
+<p>
 	<a href="http://bxbxbai.github.io/2014/09/14/android-working-with-volley/"><span style="font-size:18px;">Android库Volley的使用介绍</span></a><br />
 	
 </p>

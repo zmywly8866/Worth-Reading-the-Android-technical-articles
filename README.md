@@ -627,3 +627,7 @@
 	<a href="http://www.bongizmo.com/blog/android-resources-each-developer-should-know/"><span style="font-size:18px;">Resources every Android developer must know</span></a><br />
 	
 </p>
+<p>
+	<a href="http://stackoverflow.com/questions/218384/what-is-a-null-pointer-exception-and-how-do-i-fix-it"><span style="font-size:18px;">What is a Null Pointer Exception, and how do I fix it?</span></a><br />
+	
+</p>

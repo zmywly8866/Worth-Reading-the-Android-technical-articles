@@ -615,3 +615,7 @@
 	<a href="http://droidyue.com/blog/2015/01/18/deal-with-touch-icon-in-android/"><span style="font-size:18px;">Android中处理Touch Icon的方案</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.bongizmo.com/blog/android-resources-each-developer-should-know/"><span style="font-size:18px;">Resources every Android developer must know</span></a><br />
+	
+</p>

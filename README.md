@@ -635,6 +635,10 @@
 	<a href="https://code.facebook.com/posts/879498888759525/fast-rendering-news-feed-on-android/"><span style="font-size:18px;">Fast Rendering News Feed on Android</span></a><br />
 	
 </p>
+<p>
+	<a href="http://lucasr.org/2012/04/05/performance-tips-for-androids-listview/"><span style="font-size:18px;">Performance Tips for Android’s ListView</span></a><br />
+	
+</p>
 
 <p>
 	<strong><span style="font-size:18px;">四、视频：</span></strong>

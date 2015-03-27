@@ -631,6 +631,10 @@
 	<a href="http://stackoverflow.com/questions/218384/what-is-a-null-pointer-exception-and-how-do-i-fix-it"><span style="font-size:18px;">What is a Null Pointer Exception, and how do I fix it?</span></a><br />
 	
 </p>
+<p>
+	<a href="https://code.facebook.com/posts/879498888759525/fast-rendering-news-feed-on-android/"><span style="font-size:18px;">Fast Rendering News Feed on Android</span></a><br />
+	
+</p>
 
 <p>
 	<strong><span style="font-size:18px;">四、视频：</span></strong>

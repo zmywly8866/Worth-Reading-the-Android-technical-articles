@@ -631,3 +631,16 @@
 	<a href="http://stackoverflow.com/questions/218384/what-is-a-null-pointer-exception-and-how-do-i-fix-it"><span style="font-size:18px;">What is a Null Pointer Exception, and how do I fix it?</span></a><br />
 	
 </p>
+
+<p>
+	<strong><span style="font-size:18px;">四、视频：</span></strong>
+</p>
+
+<p>
+	<a href="http://i.youku.com/u/UMjczOTc0NDkzNg==/playlists"><span style="font-size:18px;">Analytics Academy 四套中文课程视频</span></a><br />
+	
+</p>
+<p>
+	<a href="http://www.infoq.com/cn/news/2015/01/google-android-performance?utm_reader=feedly#0-tsina-1-92503-397232819ff9a47a7b7e80a40613cfe1"><span style="font-size:18px;">Google探讨Android性能模式的16个视频总结</span></a><br />
+	
+</p>

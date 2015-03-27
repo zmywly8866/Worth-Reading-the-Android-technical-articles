@@ -652,7 +652,12 @@
 	<a href="http://www.infoq.com/cn/news/2015/01/google-android-performance?utm_reader=feedly#0-tsina-1-92503-397232819ff9a47a7b7e80a40613cfe1"><span style="font-size:18px;">Google探讨Android性能模式的16个视频总结</span></a><br />
 	
 </p>
+
 <p>
 	<a href="http://www.infoq.com/cn/presentations/from-360-development-see-big-mobile-application-development"><span style="font-size:18px;">从360手机卫士的开发历程看如何实施大型移动应用开发</span></a><br />
+	
+</p>
+<p>
+	<a href="http://v.youku.com/v_show/id_XODQ1MjI2MDQ0.html?f=23088492"><span style="font-size:18px;">Mastering the Android Touch System</span></a><br />
 	
 </p>

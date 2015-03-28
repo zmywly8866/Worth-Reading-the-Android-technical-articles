@@ -1,4 +1,4 @@
-<p>
+a<p>
 	<strong><span style="font-size:18px;">一、工具篇：</span></strong>
 </p>
 <p>
@@ -637,6 +637,10 @@
 </p>
 <p>
 	<a href="http://lucasr.org/2012/04/05/performance-tips-for-androids-listview/"><span style="font-size:18px;">Performance Tips for Android’s ListView</span></a><br />
+	
+</p>
+<p>
+	<a href="http://blog.csdn.net/dengshengjin2234/article/details/8502097"><span style="font-size:18px;">Android涉及到的设计模式</span></a><br />
 	
 </p>
 

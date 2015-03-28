@@ -643,6 +643,10 @@ a<p>
 	<a href="http://blog.csdn.net/dengshengjin2234/article/details/8502097"><span style="font-size:18px;">Android涉及到的设计模式</span></a><br />
 	
 </p>
+<p>
+	<a href="https://www.bignerdranch.com/blog/customizing-android-listview-rows-subclassing/"><span style="font-size:18px;">Customizing Android ListView Rows by Subclassing</span></a><br />
+	
+</p>
 
 <p>
 	<strong><span style="font-size:18px;">四、视频：</span></strong>

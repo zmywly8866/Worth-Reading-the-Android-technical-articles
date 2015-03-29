@@ -647,6 +647,10 @@ a<p>
 	<a href="https://www.bignerdranch.com/blog/customizing-android-listview-rows-subclassing/"><span style="font-size:18px;">Customizing Android ListView Rows by Subclassing</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.aaapei.com/article/2015/02/facebookxin-wen-ye-listviewyou-hua"><span style="font-size:18px;">facebook新闻页ListView优化</span></a><br />
+	
+</p>
 
 <p>
 	<strong><span style="font-size:18px;">四、视频：</span></strong>

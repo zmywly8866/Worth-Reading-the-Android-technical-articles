@@ -1,4 +1,4 @@
-a<p>
+<p>
 	<strong><span style="font-size:18px;">一、工具篇：</span></strong>
 </p>
 <p>
@@ -649,6 +649,10 @@ a<p>
 </p>
 <p>
 	<a href="http://blog.aaapei.com/article/2015/02/facebookxin-wen-ye-listviewyou-hua"><span style="font-size:18px;">facebook新闻页ListView优化</span></a><br />
+	
+</p>
+<p>
+	<a href="https://github.com/android-cn/android-discuss/issues/54"><span style="font-size:18px;">请问平时开发过程中，你是如何做到多分辨率适配的？平板和手机可以共用一套代码吗？</span></a><br />
 	
 </p>
 

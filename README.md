@@ -655,6 +655,10 @@
 	<a href="https://github.com/android-cn/android-discuss/issues/54"><span style="font-size:18px;">请问平时开发过程中，你是如何做到多分辨率适配的？平板和手机可以共用一套代码吗？</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.csdn.net/love_xsq/article/details/44616925"><span style="font-size:18px;">Android ocr识别文字介绍</span></a><br />
+	
+</p>
 
 <p>
 	<strong><span style="font-size:18px;">四、视频：</span></strong>

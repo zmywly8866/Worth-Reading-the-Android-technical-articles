@@ -659,6 +659,10 @@
 	<a href="http://blog.csdn.net/love_xsq/article/details/44616925"><span style="font-size:18px;">Android ocr识别文字介绍</span></a><br />
 	
 </p>
+<p>
+	<a href="http://blog.csdn.net/tianjian4592/article/details/44222565"><span style="font-size:18px;">自定义view实现水波纹效果</span></a><br />
+	
+</p>
 
 <p>
 	<strong><span style="font-size:18px;">四、视频：</span></strong>

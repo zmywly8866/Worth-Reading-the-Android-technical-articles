@@ -689,3 +689,7 @@
 	<a href="http://www.infoq.com/cn/presentations/taobao-mobile-architecture-evolution-practice"><span style="font-size:18px;">手机淘宝架构演化实践</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.infoq.com/cn/presentations/write-high-quality-gradle-script"><span style="font-size:18px;">Gradle脚本的整洁之道——编写高质量的Gradle脚本</span></a><br />
+	
+</p>

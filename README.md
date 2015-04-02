@@ -685,3 +685,7 @@
 	<a href="http://v.youku.com/v_show/id_XODQ1MjI2MDQ0.html?f=23088492"><span style="font-size:18px;">Mastering the Android Touch System</span></a><br />
 	
 </p>
+<p>
+	<a href="http://www.infoq.com/cn/presentations/taobao-mobile-architecture-evolution-practice"><span style="font-size:18px;">手机淘宝架构演化实践</span></a><br />
+	
+</p>

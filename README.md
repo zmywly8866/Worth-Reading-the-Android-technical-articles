@@ -664,6 +664,11 @@
 	
 </p>
 <p>
+	<a href="https://github.com/android-cn/android-discuss/issues"><span style="font-size:18px;">Android常见面试问题讨论</span></a><br />
+	
+</p>
+
+<p>
 	<span style="font-size:18px;"><br />
 	</span>
 </p>
@@ -700,6 +705,7 @@
 	<a href="http://www.infoq.com/cn/presentations/the-road-of-mobile-qq-mobile-network-practice"><span style="font-size:18px;">手机QQ的移动网络实践之路</span></a><br />
 	
 </p>
+
 <p>
 	<span style="font-size:18px;"><br />
 	</span>

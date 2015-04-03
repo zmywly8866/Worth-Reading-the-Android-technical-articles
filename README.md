@@ -708,6 +708,10 @@
 	<strong><span style="font-size:18px;">五、订阅源：</span></strong>
 </p>
 <p>
-	<a href="http://www.androidweekly.cn/"><span style="font-size:18px;">Android开发技术周报</span></a><br />
+	<a href="http://www.androidweekly.cn/"><span style="font-size:18px;">Android开发技术周报（中文版）</span></a><br />
+	
+</p>
+<p>
+	<a href="http://androidweekly.net/"><span style="font-size:18px;">Android开发技术周报（英文版）</span></a><br />
 	
 </p>

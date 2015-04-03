@@ -663,7 +663,10 @@
 	<a href="http://blog.csdn.net/tianjian4592/article/details/44222565"><span style="font-size:18px;">自定义view实现水波纹效果</span></a><br />
 	
 </p>
-
+<p>
+	<span style="font-size:18px;"><br />
+	</span>
+</p>
 <p>
 	<strong><span style="font-size:18px;">四、视频：</span></strong>
 </p>
@@ -695,5 +698,16 @@
 </p>
 <p>
 	<a href="http://www.infoq.com/cn/presentations/the-road-of-mobile-qq-mobile-network-practice"><span style="font-size:18px;">手机QQ的移动网络实践之路</span></a><br />
+	
+</p>
+<p>
+	<span style="font-size:18px;"><br />
+	</span>
+</p>
+<p>
+	<strong><span style="font-size:18px;">五、订阅源：</span></strong>
+</p>
+<p>
+	<a href="http://www.androidweekly.cn/"><span style="font-size:18px;">Android开发技术周报</span></a><br />
 	
 </p>

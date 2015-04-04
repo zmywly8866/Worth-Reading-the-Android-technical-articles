@@ -667,6 +667,10 @@
 	<a href="https://github.com/android-cn/android-discuss/issues"><span style="font-size:18px;">Android常见面试问题讨论</span></a><br />
 	
 </p>
+<p>
+	<a href="http://isux.tencent.com/introduction-of-webp.html"><span style="font-size:18px;">WebP 探寻之路</span></a><br />
+	
+</p>
 
 <p>
 	<span style="font-size:18px;"><br />

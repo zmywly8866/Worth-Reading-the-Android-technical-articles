@@ -671,6 +671,10 @@
 	<a href="http://isux.tencent.com/introduction-of-webp.html"><span style="font-size:18px;">WebP 探寻之路</span></a><br />
 	
 </p>
+<p>
+	<a href="http://hukai.me/android-tips-for-reduce-apk-size/"><span style="font-size:18px;">Android APK安装包瘦身</span></a><br />
+	
+</p>
 
 <p>
 	<span style="font-size:18px;"><br />

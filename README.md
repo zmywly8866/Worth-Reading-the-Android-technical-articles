@@ -675,6 +675,10 @@
 	<a href="http://hukai.me/android-tips-for-reduce-apk-size/"><span style="font-size:18px;">Android APK安装包瘦身</span></a><br />
 	
 </p>
+<p>
+	<a href="http://my.oschina.net/xesam/blog/143985"><span style="font-size:18px;">自定义ADT模板</span></a><br />
+	
+</p>
 
 <p>
 	<span style="font-size:18px;"><br />

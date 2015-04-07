@@ -679,7 +679,10 @@
 	<a href="http://my.oschina.net/xesam/blog/143985"><span style="font-size:18px;">自定义ADT模板</span></a><br />
 	
 </p>
-
+<p>
+	<a href="http://zmywly8866.github.io/2015/04/06/decrease-apk-size.html"><span style="font-size:18px;">关于APK瘦身值得分享的一些经验</span></a><br />
+	
+</p>
 <p>
 	<span style="font-size:18px;"><br />
 	</span>

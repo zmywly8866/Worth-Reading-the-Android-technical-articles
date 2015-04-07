@@ -684,6 +684,10 @@
 	
 </p>
 <p>
+	<a href="http://stormzhang.com/android/2015/03/29/android-support-library/"><span style="font-size:18px;">Android Support兼容包详解</span></a><br />
+	
+</p>
+<p>
 	<span style="font-size:18px;"><br />
 	</span>
 </p>

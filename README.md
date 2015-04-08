@@ -724,7 +724,10 @@
 	<a href="http://www.infoq.com/cn/presentations/the-road-of-mobile-qq-mobile-network-practice"><span style="font-size:18px;">手机QQ的移动网络实践之路</span></a><br />
 	
 </p>
-
+<p>
+	<a href="http://www.infoq.com/cn/presentations/static-detection-method-for-android-app-vulnerabilities"><span style="font-size:18px;">安卓APP漏洞的静态检测方法</span></a><br />
+	
+</p>
 <p>
 	<span style="font-size:18px;"><br />
 	</span>

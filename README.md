@@ -688,6 +688,10 @@
 	
 </p>
 <p>
+	<a href="http://blog.csdn.net/ekeuy/article/details/44974549"><span style="font-size:18px;">Android xml资源文件中@、@android:type、@*、？、@+含义和区别</span></a><br />
+	
+</p>
+<p>
 	<span style="font-size:18px;"><br />
 	</span>
 </p>

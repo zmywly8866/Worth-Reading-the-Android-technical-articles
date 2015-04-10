@@ -696,6 +696,16 @@
 	</span>
 </p>
 <p>
+	<a href="http://www.zcool.com.cn/article/ZNjI3NDQ%3D.html"><span style="font-size:18px;">Android屏幕适配知识大全（美工与程序员须知）</span></a><br />
+	
+</p>
+
+<p>
+	<a href="http://yanbober.github.io/timeline.html"><span style="font-size:18px;">Android开发系列干货博客</span></a><br />
+	
+</p>
+
+<p>
 	<strong><span style="font-size:18px;">四、视频：</span></strong>
 </p>
 

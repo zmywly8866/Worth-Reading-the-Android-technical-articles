@@ -692,10 +692,6 @@
 	
 </p>
 <p>
-	<span style="font-size:18px;"><br />
-	</span>
-</p>
-<p>
 	<a href="http://www.zcool.com.cn/article/ZNjI3NDQ%3D.html"><span style="font-size:18px;">Android屏幕适配知识大全（美工与程序员须知）</span></a><br />
 	
 </p>
@@ -704,7 +700,14 @@
 	<a href="http://yanbober.github.io/timeline.html"><span style="font-size:18px;">Android开发系列干货博客</span></a><br />
 	
 </p>
-
+<p>
+	<a href="http://blog.csdn.net/u013045971/article/details/41984879"><span style="font-size:18px;">Android 闪电效果 (Electric Screen,电动屏幕)</span></a><br />
+	
+</p>
+<p>
+	<span style="font-size:18px;"><br />
+	</span>
+</p>
 <p>
 	<strong><span style="font-size:18px;">四、视频：</span></strong>
 </p>

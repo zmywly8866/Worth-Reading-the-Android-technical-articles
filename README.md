@@ -705,6 +705,10 @@
 	
 </p>
 <p>
+	<a href="http://blog.csdn.net/u013045971/article/details/42016501"><span style="font-size:18px;">Android 碎屏效果 (Crack Screen,击碎屏幕)</span></a><br />
+	
+</p>
+<p>
 	<span style="font-size:18px;"><br />
 	</span>
 </p>

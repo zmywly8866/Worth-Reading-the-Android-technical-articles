@@ -713,6 +713,10 @@
 	
 </p>
 <p>
+	<a href="http://www.cnblogs.com/qianxudetianxia/category/312863.html"><span style="font-size:18px;">Android设计模式系列</span></a><br />
+	
+</p>
+<p>
 	<span style="font-size:18px;"><br />
 	</span>
 </p>

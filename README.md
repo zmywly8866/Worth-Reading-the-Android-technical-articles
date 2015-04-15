@@ -709,6 +709,10 @@
 	
 </p>
 <p>
+	<a href="https://github.com/simple-android-framework/android_design_patterns_analysis"><span style="font-size:18px;">Android源码设计模式分析项目</span></a><br />
+	
+</p>
+<p>
 	<span style="font-size:18px;"><br />
 	</span>
 </p>

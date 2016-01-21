@@ -32,6 +32,10 @@
 	</span>
 </p>
 <p>
+         <span style="font-size:18px;"><a target="_blank"   href="http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/"> android的学习之路</a><br />
+	</span>
+</p>
+<p>
 	<span style="font-size:18px;"><a target="_blank" href="http://www.cnblogs.com/bravestarrhu/archive/2012/05/02/2479461.html">Android四大基本组件介绍与生命周期</a><br />
 	</span>
 </p>

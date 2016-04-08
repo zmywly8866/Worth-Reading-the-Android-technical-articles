@@ -717,6 +717,10 @@
 	
 </p>
 <p>
+	<a href="http://www.tianmaying.com/tutorial/AndroidMVC"><span style="font-size:18px;">Android App的设计架构</span></a><br />
+	
+</p>
+<p>
 	<span style="font-size:18px;"><br />
 	</span>
 </p>

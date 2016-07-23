@@ -1,14 +1,20 @@
 <p>
-	<strong><span style="font-size:18px;">一、工具篇：</span></strong>
+	<strong><span style="font-size:18px;">一、精选工具：</span></strong>
 </p>
+<ul>
+<li>
 <p>
 	<span style="font-size:18px;"><a target="_blank" href="http://www.androiddevtools.cn/">AndroidDevTools</a><br />
 	</span>
 </p>
+</li>
+<li>
 <p>
 	<span style="font-size:18px;"><a target="_blank" href="https://github.com/inferjay/AndroidDevTools/">AndroidDevTools(Github)</a><br />
 	</span>
 </p>
+</li>
+</ul>
 <p>
 	<span style="font-size:18px;"><br />
 	</span>
@@ -16,16 +22,317 @@
 <p>
 	<strong><span style="font-size:18px;">二、官方文档：</span></strong>
 </p>
+<ul>
+<li>
 <p>
 	<span style="font-size:18px;"><a target="_blank" href="http://hukai.me/android-training-course-in-chinese/index.html">AndroidTraning中文版</a><br />
 	</span>
 </p>
+</li>
+</ul>
 <p>
 	<span style="font-size:18px;"><br />
 	</span>
 </p>
 <p>
-	<strong><span style="font-size:18px;">三、精华文章：</span></strong>
+	<strong><span style="font-size:18px;">三、优质博客：</span></strong>
+</p>
+<ul>
+<li>
+<p><a href="http://blog.csdn.net/guolin_blog">郭霖</a></p>
+</li>
+<li>
+<p><a href="http://blog.csdn.net/Innost">邓凡平</a></p>
+</li>
+<li>
+<p><a href="http://blog.csdn.net/singwhatiwanna">singwhatiwanna</a></p>
+</li>
+<li>
+<p><a href="http://blog.csdn.net/Luoshengyang">Luoshengyang</a></p>
+</li>
+<li>
+<p><a href="http://www.trinea.cn/">Trinea</a></p>
+</li>
+<li>
+<p><a href="http://blog.daimajia.com/">daimajia</a></p>
+</li>
+<li>
+<p><a href="http://droidyue.com/">技术小黑屋</a></p>
+</li>
+<li>
+<p><a href="http://blog.csdn.net/lmj623565791">Hongyang</a></p>
+</li>
+<li>
+<p><a href="http://stormzhang.github.io/">stormzhang</a></p>
+</li>
+<li>
+<p><a href="http://tech.meituan.com/">美团点评技术团队</a></p>
+</li>
+<li>
+<p><a href="http://pedant.cn/">书呆子精神院</a></p>
+</li>
+<li>
+<p><a href="http://blog.csdn.net/lzyzsd/">大头鬼Bruce</a></p>
+</li>
+<li>
+<p><a href="http://blog.zhaiyifan.cn/">markzhai的博客</a></p>
+</li>
+<li>
+<p><a href="http://androidperformance.com/">Gracker</a></p>
+</li>
+<li>
+<p><a href="http://android-developers.blogspot.com/">Android官方博客</a></p>
+</li>
+<li>
+<p><a href="http://jakewharton.com/">JakeWharton</a></p>
+</li>
+<li>
+<p><a href="http://square.github.io/">Square</a></p>
+</li>
+<li>
+<p><a href="http://chris.banes.me/">Chris Banes</a></p>
+</li>
+<li>
+<p><a href="http://jeremyfeinstein.com/">Jeremy Feinstein</a></p>
+</li>
+<li>
+<p><a href="http://nostra13android.blogspot.com/">Sergey Tarasevich</a></p>
+</li>
+<li>
+<p><a href="http://koush.com/">Koushik Dutta</a></p>
+</li>
+<li>
+<p><a href="http://simonvt.net/">Simon Vig</a></p>
+</li>
+<li>
+<p><a href="http://cyrilmottier.com/">Cyril Mottier</a></p>
+</li>
+<li>
+<p><a href="http://emilsjolander.se/">Emil Sjolander</a></p>
+</li>
+<li>
+<p><a href="http://loopj.com">James Smith</a></p>
+</li>
+<li>
+<p><a href="https://github.com/ManuelPeinado">Manuel Peinado</a></p>
+</li>
+<li>
+<p><a href="http://greenrobot.de/">greenrobot</a></p>
+</li>
+<li>
+<p><a href="http://jeffgilfelt.com">Jeff Gilfelt</a></p>
+</li>
+<li>
+<p><a href="http://roman.nurik.net/">Roman Nurik</a></p>
+</li>
+<li>
+<p><a href="http://www.flavienlaurent.com">Flavien Laurent</a></p>
+</li>
+<li>
+<p><a href="http://gmariotti.blogspot.it">Gabriele Mariotti</a></p>
+</li>
+<li>
+<p><a href="http://www.sephiroth.it/">sephiroth74</a></p>
+</li>
+<li>
+<p><a href="http://www.curious-creature.org">Romain Guy</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/kevinsawicki">Kevin Sawicki</a></p>
+</li>
+<li>
+<p><a href="http://about.me/chris.jenkins">Christopher Jenkins</a></p>
+</li>
+<li>
+<p><a href="http://jpardogo.com">Javier Pardo</a></p>
+</li>
+<li>
+<p><a href="http://graphics-geek.blogspot.com/">Chet Haase</a></p>
+</li>
+<li>
+<p><a href="http://mttkay.github.io/">Matthias Käppler</a></p>
+</li>
+<li>
+<p><a href="http://blog.danlew.net/">Daniel Lew</a></p>
+</li>
+<li>
+<p><a href="https://code.facebook.com/mobile/">FaceBook</a></p>
+</li>
+<li>
+<p><a href="https://blog.stylingandroid.com/">Styling Android</a></p>
+</li>
+<li>
+<p><a href="http://www.cnblogs.com/hanyonglu">hanyonglu</a></p>
+</li>
+<li>
+<p><a href="http://www.fookwood.com">fookwood.com</a></p>
+</li>
+<li>
+<p><a href="http://blog.csdn.net/lilu_leo">lilu_leo</a> </p>
+</li>
+<li>
+<p><a href="https://github.com/youxiachai">youxiachai</a></p>
+</li>
+<li>
+<p><a href="https://github.com/dodola">dodola </a></p>
+</li>
+<li>
+<p><a href="http://imid.me">imid.me</a></p>
+</li>
+<li>
+<p><a href="https://github.com/mcxiaoke">mcxiaoke</a></p>
+</li>
+<li>
+<p><a href="https://github.com/soarcn">soarcn</a></p>
+</li>
+<li>
+<p><a href="http://www.cnblogs.com/qianxudetianxia">qianxudetianxia</a></p>
+</li>
+<li>
+<p><a href="http://blog.csdn.net/xiaominghimi">xiaominghimi</a></p>
+</li>
+<li>
+<p><a href="https://github.com/yangfuhai">yangfuhai</a></p>
+</li>
+<li>
+<p><a href="http://blog.csdn.net/hellogv">hellogv</a></p>
+</li>
+<li>
+<p><a href="http://blog.csdn.net/yiyaaixuexi">yiyaaixuexi</a></p>
+</li>
+<li>
+<p><a href="http://blog.csdn.net/wangjinyu501">wangjinyu501</a></p>
+</li>
+<li>
+<p><a href="http://blog.csdn.net/asce1885">asce1885</a></p>
+</li>
+<li>
+<p><a href="http://blog.csdn.net/qinjuning">qinjuning</a> </p>
+</li>
+<li>
+<p><a href="http://blog.csdn.net/tangcheng_ok">tangcheng_ok</a></p>
+</li>
+<li>
+<p><a href="http://over140.cnblogs.com">over140</a></p>
+</li>
+<li>
+<p><a href="http://www.paper3d.net">paper3d.net</a></p>
+</li>
+<li>
+<p><a href="http://www.cnblogs.com/daizhj">daizhj</a></p>
+</li>
+<li>
+<p><a href="http://www.cnblogs.com/sunzn">sunzn</a></p>
+</li>
+</ul>
+<p>
+	<span style="font-size:18px;"><br />
+	</span>
+</p>
+<p>
+	<strong><span style="font-size:18px;">四、精选视频：</span></strong>
+</p>
+<ul>
+<li>
+<p>
+	<a href="http://i.youku.com/u/UMjczOTc0NDkzNg==/playlists"><span style="font-size:18px;">Analytics Academy 四套中文课程视频</span></a><br />
+	
+</p>
+</li>
+<li>
+<p>
+	<a href="http://www.infoq.com/cn/news/2015/01/google-android-performance?utm_reader=feedly#0-tsina-1-92503-397232819ff9a47a7b7e80a40613cfe1"><span style="font-size:18px;">Google探讨Android性能模式的16个视频总结</span></a><br />
+	
+</p>
+</li>
+<li>
+<p>
+	<a href="http://www.infoq.com/cn/presentations/from-360-development-see-big-mobile-application-development"><span style="font-size:18px;">从360手机卫士的开发历程看如何实施大型移动应用开发</span></a><br />
+	
+</p>
+</li>
+<li>
+<p>
+	<a href="http://v.youku.com/v_show/id_XODQ1MjI2MDQ0.html?f=23088492"><span style="font-size:18px;">Mastering the Android Touch System</span></a><br />
+	
+</p>
+</li>
+<li>
+<p>
+	<a href="http://www.infoq.com/cn/presentations/taobao-mobile-architecture-evolution-practice"><span style="font-size:18px;">手机淘宝架构演化实践</span></a><br />
+	
+</p>
+</li>
+<li>
+<p>
+	<a href="http://www.infoq.com/cn/presentations/write-high-quality-gradle-script"><span style="font-size:18px;">Gradle脚本的整洁之道——编写高质量的Gradle脚本</span></a><br />
+	
+</p>
+</li>
+<li>
+<p>
+	<a href="http://www.infoq.com/cn/presentations/the-road-of-mobile-qq-mobile-network-practice"><span style="font-size:18px;">手机QQ的移动网络实践之路</span></a><br />
+	
+</p>
+</li>
+<li>
+<p>
+	<a href="http://www.infoq.com/cn/presentations/static-detection-method-for-android-app-vulnerabilities"><span style="font-size:18px;">安卓APP漏洞的静态检测方法</span></a><br />
+	
+</p>
+</li>
+</ul>
+<p>
+	<span style="font-size:18px;"><br />
+	</span>
+</p>
+<p>
+	<strong><span style="font-size:18px;">五、技术周报：</span></strong>
+</p>
+<ul>
+<li>
+<p><a href="http://www.androidweekly.cn/">Android开发技术周报</a></p>
+</li>
+<li>
+<p><a href="http://www.androidblog.cn/">Android博客周刊</a></p>
+</li>
+<li>
+<p><a href="http://mobilefrontier.github.io/archives/">移动开发前线</a></p>
+</li>
+<li>
+<p><a href="http://androidweekly.net/">Android Weekly</a></p>
+</li>
+<li>
+<p><a href="https://github.com/PaicHyperionDev/MobileDevWeekly">平安金融科技移动开发周报</a></p>
+</li>
+<li>
+<p><a href="http://gank.io/">干货集中营</a></p>
+</li>
+</ul>
+<p>
+	<span style="font-size:18px;"><br />
+	</span>
+</p>
+<p>
+	<strong><span style="font-size:18px;">六、技术类APP：</span></strong>
+</p>
+<ul>
+<li>
+<p><a href="https://gold.xitu.io">掘金</a></p>
+</li>
+<li>
+<p><a href="http://toutiao.io/">开发者头条</a></p>
+</li>
+<li>
+<p><a href="http://www.tuicool.com/">推酷</a></p>
+</li>
+</ul>
+<p>
+	<span style="font-size:18px;"><br />
+	</span>
+</p>
+<p>
+	<strong><span style="font-size:18px;">七、精华文章：</span></strong>
 </p>
 <p>
 	<span style="font-size:18px;"><a target="_blank" href="http://blog.csdn.net/android_tutor/article/details/5772285">两分钟彻底让你明白Android Activity生命周期(图文)!</a><br />
@@ -737,59 +1044,4 @@
 	<a href="http://blog.csdn.net/gemmem/article/details/13017999"><span style="font-size:18px;">Android内存泄漏分析</span></a><br />
 	
 </p>
-<p>
-	<span style="font-size:18px;"><br />
-	</span>
-</p>
-<p>
-	<strong><span style="font-size:18px;">四、视频：</span></strong>
-</p>
 
-<p>
-	<a href="http://i.youku.com/u/UMjczOTc0NDkzNg==/playlists"><span style="font-size:18px;">Analytics Academy 四套中文课程视频</span></a><br />
-	
-</p>
-<p>
-	<a href="http://www.infoq.com/cn/news/2015/01/google-android-performance?utm_reader=feedly#0-tsina-1-92503-397232819ff9a47a7b7e80a40613cfe1"><span style="font-size:18px;">Google探讨Android性能模式的16个视频总结</span></a><br />
-	
-</p>
-
-<p>
-	<a href="http://www.infoq.com/cn/presentations/from-360-development-see-big-mobile-application-development"><span style="font-size:18px;">从360手机卫士的开发历程看如何实施大型移动应用开发</span></a><br />
-	
-</p>
-<p>
-	<a href="http://v.youku.com/v_show/id_XODQ1MjI2MDQ0.html?f=23088492"><span style="font-size:18px;">Mastering the Android Touch System</span></a><br />
-	
-</p>
-<p>
-	<a href="http://www.infoq.com/cn/presentations/taobao-mobile-architecture-evolution-practice"><span style="font-size:18px;">手机淘宝架构演化实践</span></a><br />
-	
-</p>
-<p>
-	<a href="http://www.infoq.com/cn/presentations/write-high-quality-gradle-script"><span style="font-size:18px;">Gradle脚本的整洁之道——编写高质量的Gradle脚本</span></a><br />
-	
-</p>
-<p>
-	<a href="http://www.infoq.com/cn/presentations/the-road-of-mobile-qq-mobile-network-practice"><span style="font-size:18px;">手机QQ的移动网络实践之路</span></a><br />
-	
-</p>
-<p>
-	<a href="http://www.infoq.com/cn/presentations/static-detection-method-for-android-app-vulnerabilities"><span style="font-size:18px;">安卓APP漏洞的静态检测方法</span></a><br />
-	
-</p>
-<p>
-	<span style="font-size:18px;"><br />
-	</span>
-</p>
-<p>
-	<strong><span style="font-size:18px;">五、订阅源：</span></strong>
-</p>
-<p>
-	<a href="http://www.androidweekly.cn/"><span style="font-size:18px;">Android开发技术周报（中文版）</span></a><br />
-	
-</p>
-<p>
-	<a href="http://androidweekly.net/"><span style="font-size:18px;">Android开发技术周报（英文版）</span></a><br />
-	
-</p>

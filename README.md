@@ -56,6 +56,10 @@
 	</span>
 </p>
 <p>
+	<span style="font-size:18px;"><a target="_blank" href="http://hukai.me/android-notes-process-and-thread/">Android进程线程讲解</a><br />
+	</span>
+</p>
+<p>
 	<span style="font-size:18px;"><a target="_blank" href="http://blog.csdn.net/guolin_blog/article/details/12921889">Android LayoutInflater原理分析，带你一步步深入了解View(一)</a><br />
 	</span>
 </p>
@@ -245,6 +249,11 @@
 </p>
 <p>
 	<span style="font-size:18px;"><a href="http://www.cnblogs.com/xiaoxuetu/p/3411214.html">adb常用命令</a><br />
+	</span>
+</p>
+<p>
+	<span style="font-size:18px;"><a href="http://www.jianshu.com/p/860bc2bf1a6a">
+	Android ADB命令大全(通过ADB命令查看wifi密码、MAC地址、设备信息、操作文件、查看文件、日志信息、卸载、启动和安装APK等)</a><br />
 	</span>
 </p>
 <p>

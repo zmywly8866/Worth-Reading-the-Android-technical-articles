@@ -717,6 +717,14 @@
 	
 </p>
 <p>
+	<a href="http://www.tianmaying.com/tutorial/AndroidMVC"><span style="font-size:18px;">Android App的设计架构</span></a><br />
+	
+</p>
+<p>
+	<a href="http://blog.csdn.net/gemmem/article/details/13017999"><span style="font-size:18px;">Android内存泄漏分析</span></a><br />
+	
+</p>
+<p>
 	<span style="font-size:18px;"><br />
 	</span>
 </p>

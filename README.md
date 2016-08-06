@@ -1,3 +1,5 @@
+&emsp;&emsp;阅读文章前请看这篇文章：[Android开发优质资源](Android开发优质资源.md)
+
 <p>
 	<strong><span style="font-size:18px;">一、精选工具：</span></strong>
 </p>

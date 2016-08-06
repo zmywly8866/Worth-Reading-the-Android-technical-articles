@@ -1047,3 +1047,10 @@
 	
 </p>
 
+&emsp;&emsp;更多原创文章和优质资源请关注公众号：
+
+![微信公众号](http://ww1.sinaimg.cn/large/6d17e381gw1f6jts23i3aj207607674t.jpg)
+
+&emsp;&emsp;更多Android技术资源交流请加群，本群的建群宗旨是分享优质的Android技术资源。群成员可以自由分享任何Android方面的技术资源和文章，并会不定期总结成文章方便大家阅读。若二维码过期或者群满，请加群助理微信：Jf-1994，并注明原因是加Android技术资源交流群：
+
+![Android技术资源交流群](http://ww4.sinaimg.cn/large/6d17e381gw1f6jtrrudr1j20gy0ih76f.jpg)

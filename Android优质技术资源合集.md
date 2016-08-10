@@ -19,6 +19,8 @@
 
 - [App开发日报](http://app.memect.com/)
 
+- [ANDROIDDEV DIGEST](https://www.androiddevdigest.com/)
+
 ## 精选技术资讯
 
 - [极客头条](http://geek.csdn.net/forum/65)

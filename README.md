@@ -1,4 +1,4 @@
-&emsp;&emsp;阅读文章前请看这篇文章：[Android开发优质资源](Android开发优质资源.md)
+&emsp;&emsp;阅读文章前请看这篇文章：[Android优质技术资源合集](Android优质技术资源合集.md)
 
 <p>
 	<strong><span style="font-size:18px;">一、精选工具：</span></strong>
